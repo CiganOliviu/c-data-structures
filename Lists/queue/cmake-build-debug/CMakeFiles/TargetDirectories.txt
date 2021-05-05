@@ -1,0 +1,3 @@
+D:/Code/git/c-data-structures/Lists/queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/git/c-data-structures/Lists/queue/cmake-build-debug/CMakeFiles/queue.dir
+D:/Code/git/c-data-structures/Lists/queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
